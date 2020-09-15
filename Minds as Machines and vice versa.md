@@ -1,6 +1,6 @@
 **Books**
 <details>
-<summary>*[Mindware: An Introduction to the Philosophy of Cognitive Science] (https://global.oup.com/academic/product/mindware-9780199828159?cc=us&lang=en&#)* by [Andy Clark](https://www.ed.ac.uk/profile/andy-clark)</summary>
+<summary> [*Mindware: An Introduction to the Philosophy of Cognitive Science*] (https://global.oup.com/academic/product/mindware-9780199828159?cc=us&lang=en&#) by [Andy Clark](https://www.ed.ac.uk/profile/andy-clark)</summary>
 <br>
 Introduction: (Not) Like a Rock
 1. Meat Machines: Mindware as Software
