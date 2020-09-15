@@ -7,13 +7,13 @@ reading lists and reading notes on programming and beyond
 #### [Minds as Machines and vice versa.md](https://github.com/kellydinneen/readings-turing-2010/blob/master/Minds%20as%20Machines%20and%20vice%20versa.md) - (computational) psychology/neuroscience and the philosophy of
 <details>
 <summary> * <i>guiding questions</i> </summary> <br> <ul>
-<li> <em>how can learn from the human mind to build better software?<em></li>
+<li><em>how can learn from the human mind to build better software?</em></li>
 	<ul>
 	<li>how can we (and should we) model computers on ourselves?</li>
 	<li>how can we avoid the pitfalls of human psychology when designing computer 'psychologies'</li>
 	<li>does framing software as psychology help us or hurt us as designers?</li>	
 	</ul>	
-<li><U>how can we build software that is better for the human mind</U></li>
+<li><em>how can we build software that is better for the human mind</em></li>
 	<ul>
 	<li>how is the technology we use contributing to our wellbeing, planting new epistemic habits, changing the way we think</li>
 	<li>what can psychology + neuroscience tell us about how can we do better for users</li>
