@@ -7,7 +7,7 @@ reading lists and reading notes on programming and beyond
 #### [Minds as Machines and vice versa.md](https://github.com/kellydinneen/readings-turing-2010/blob/master/Minds%20as%20Machines%20and%20vice%20versa.md) - (computational) psychology/neuroscience and the philosophy of
 <details>
 	<p align="right"> <summary> * <i>why bother with this subject?</i> </summary> </p> 
-<br>
+	<br>
 <ul>
 <li><U>how can learn from the human mind to build better software?</U></li>
 	<ul>
@@ -22,27 +22,22 @@ reading lists and reading notes on programming and beyond
 	<li>how can we augment + fill in the gaps of human capacities rather than merely replicating + replacing them</li>	
 	</ul>		
 <li>how can understanding of computers enhance our understanding of the mind</li>
-	
-		* what can psychologists/neuroscientists learn from programmers and computer scientists about the nature of information and thought
-		
+	<ul>
+	<li>what can psychologists/neuroscientists learn from programmers and computer scientists about the nature of information and thought</li>	
+	</ul>		
 <li>how can software be used as a tool in behavioral science research</li>
-	
-		* for modelling of neural function, decision making, social interaction
-		
-		* for data processing
-		
-		* for data collection (e.g. scaled, web hosted surveys and digital experiments)
-		
-		* for communication and education
-		
+	<ul>
+	<li>for modelling of neural function, decision making, social interaction</li>
+	<li>for data processing</li>
+	<li>for data collection (e.g. scaled, web hosted surveys and digital experiments)</li>	
+	<li>for communication and education</li>	
+	</ul>		
 <li>what should we think about AI?</li>
-	
-		* what is there to be afraid of?
-		
-		* what kind of control do we have over the future?
-		
+	<ul>
+	<li>what is there to be afraid of?</li>
+	<li>what kind of control do we have over the future?</li>
+	</ul>
 </ul>
-	
 	
 </details>
 
