@@ -1,4 +1,4 @@
-#### Books
+### Books
 <details>
 <summary> <a href="https://global.oup.com/academic/product/mindware-9780199828159?cc=us&lang=en&#"><i>Mindware: An Introduction to the Philosophy of Cognitive Science</i></a> by <a href="https://www.ed.ac.uk/profile/andy-clark">Andy Clark</a></summary>
 <br>
