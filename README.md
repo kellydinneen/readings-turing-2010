@@ -9,20 +9,18 @@ reading lists and reading notes on programming and beyond
 	<p align="right"> <summary> * <i>why bother with this subject?</i> </summary> </p> 
 <br>
 <ul>
-<li>how can learn from the human mind to build better software?</li>
+<li><U>how can learn from the human mind to build better software?</U></li>
 	<ul>
 	<li>how can we (and should we) model computers on ourselves?</li>
 	<li>how can we avoid the pitfalls of human psychology when designing computer 'psychologies'</li>
 	<li>does framing software as psychology help us or hurt us as designers?</li>	
 	</ul>	
-<li>how can we build software that is better for the human mind</li>
-	
-		* how is the technology we use contributing to our wellbeing, planting new epistemic habits, changing the way we think
-		
-		* what can psychology + neuroscience tell us about how can we do better for users
-		
-		* how can we augment + fill in the gaps of human capacities rather than merely replicating + replacing them
-		
+<li><U>how can we build software that is better for the human mind</U></li>
+	<ul>
+	<li>how is the technology we use contributing to our wellbeing, planting new epistemic habits, changing the way we think</li>
+	<li>what can psychology + neuroscience tell us about how can we do better for users</li>
+	<li>how can we augment + fill in the gaps of human capacities rather than merely replicating + replacing them</li>	
+	</ul>		
 <li>how can understanding of computers enhance our understanding of the mind</li>
 	
 		* what can psychologists/neuroscientists learn from programmers and computer scientists about the nature of information and thought
