@@ -2,7 +2,7 @@
 reading lists and reading notes on programming and beyond
 
 ## Lists By Topic
-### [Minds as Machines and vice versa.md](https://github.com/kellydinneen/readings-turing-2010/blob/master/Minds%20as%20Machines%20and%20vice%20versa.md) - (computational) psychology/neuroscience and the philosophy of
+#### [Minds as Machines and vice versa.md](https://github.com/kellydinneen/readings-turing-2010/blob/master/Minds%20as%20Machines%20and%20vice%20versa.md) - (computational) psychology/neuroscience and the philosophy of
 <details>
 <summary> guiding questions </summary> <br> <ul>
 <li><em>how can learn from the human mind to build better software?</em></li>
